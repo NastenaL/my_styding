@@ -16,10 +16,8 @@ namespace depencyInjection
             var warrior = AppKernel.Get<Warrior>();
             warrior.Kill();
 
-            Warrior w1 = new Warrior(new Sword());
-            w1.Kill();
             Console.ReadKey();
-            
+            /// text
         }
     }
 }
