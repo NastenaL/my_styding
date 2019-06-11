@@ -1,0 +1,8 @@
+D:\Учебка\VisStud (progi)\C#\depencyInjection\depencyInjection\bin\Debug\depencyInjection.exe.config
+D:\Учебка\VisStud (progi)\C#\depencyInjection\depencyInjection\bin\Debug\depencyInjection.exe
+D:\Учебка\VisStud (progi)\C#\depencyInjection\depencyInjection\bin\Debug\depencyInjection.pdb
+D:\Учебка\VisStud (progi)\C#\depencyInjection\depencyInjection\obj\Debug\depencyInjection.csprojResolveAssemblyReference.cache
+D:\Учебка\VisStud (progi)\C#\depencyInjection\depencyInjection\obj\Debug\depencyInjection.exe
+D:\Учебка\VisStud (progi)\C#\depencyInjection\depencyInjection\obj\Debug\depencyInjection.pdb
+D:\Учебка\VisStud (progi)\C#\depencyInjection\depencyInjection\bin\Debug\Ninject.dll
+D:\Учебка\VisStud (progi)\C#\depencyInjection\depencyInjection\bin\Debug\Ninject.xml
