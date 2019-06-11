@@ -17,7 +17,6 @@ namespace depencyInjection
             warrior.Kill();
 
             Console.ReadKey();
-            /// text
         }
     }
 }
